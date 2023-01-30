@@ -1,0 +1,37 @@
+*, html, body{
+    margin: 0;
+    padding: 5px;
+    font-family: 'Georgia', sans-serif;
+    text-align: center;
+}
+
+.K {
+    background-image: url('K.jpeg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.title {
+    color: #FFFFFF;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.container {
+    width: 500px;
+    border:1px solid #FFFFFF;
+    background-color: rgba(0,0,0,0.5);
+    margin: 0 auto;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 30px;
+    
+}
+
+
+.photo {
+    width: 150px;
+    height: 150px;
+    border: 5px solid #FFFFFF;
+    border-radius: 50%;
+}
